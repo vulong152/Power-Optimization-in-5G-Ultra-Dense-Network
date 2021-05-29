@@ -1,6 +1,4 @@
-# Dqn,Double Dqn and Dueiling Dqn
- Deep Reinforcement Learning Based Dynamic Resource Allocation 
+# Deep Q Network
+ Deep Reinforcement Learning for Power Optimization
 
-![Test Image 1](1.jpeg)
 
-![Test Image 2](2.jpeg)
